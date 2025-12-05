@@ -1,4 +1,4 @@
-# Linux Directory Structure Creator
+**# Linux Directory Structure Creator**
 
 This repository contains a Bash script that automatically creates a nested Linux directory structure based on the hierarchy shown in the project diagram.
 
@@ -78,7 +78,7 @@ echo "Directory structure created successfully!"
 1. Save the script:
 
 ```bash
-nano create_structure.sh
+vim linux_system.sh
 ```
 
 Paste the script and save.
